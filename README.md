@@ -140,6 +140,17 @@ bis Rhythmus und Melodie **perfekt verschmelzen**...
 
 ✨ *Nur dann brichst du den Bann der CloudIA!*
 
+## 🌟 **Phase 3 – Das freie Spiel der Wolkenmelodie**
+
+Nachdem du den Bann der CloudIA gebrochen hast, liegt das Reich der Wolken offen vor dir.  
+Nun beginnt das wahre Abenteuer!
+
+Spiele mit den anderen Knöpfen und Reglern des DATO DUO, experimentiere mit neuen Klängen,  
+verforme die Melodie, erweitere deinen Rhythmus und entdecke, welche musikalischen  
+Möglichkeiten in den Wolken verborgen sind.
+
+✨ **Lass deiner Kreativität freien Lauf – die Melodie gehört jetzt dir!**
+
 ------------------------------------------------------------------------
 
 # 🌈 \*\*Viel Mut, Musiker\*in!\*\*
