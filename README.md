@@ -43,11 +43,10 @@ mkdir WolkenMelodie
 cd WolkenMelodie
 ```
 
-Dann klone das Projekt:
+Dann klone dieses Projekt:
 
 ``` bash
-git clone <URL_DES_REPOSITORIOS>
-cd <NAME_DES_REPOSITORIOS>
+git clone https://github.com/wilberquiroz/umpa-bumpa-trommel.git
 ```
 
 ### 🧪 **Virtuelle Umgebung aktivieren**
@@ -80,31 +79,25 @@ pip install -r requirements.txt
 
 1.  Verbinde das **DATO DUO** via USB mit deinem Computer.\
 
-2.  Navigiere in das Verzeichnis `core/`:
+2.  Starte das Spiel. Benutz am liebsten den ganzen Pfad, z.B:
 
     ``` bash
-    cd core
+    C:\\Users\\wcar\\Desktop\\WolkenMelodie\\.venv\\Scripts\\python.exe c:/Users/wcar/Desktop/WolkenMelodie/core/main.py
     ```
 
-3.  Starte das Spiel:
-
-    ``` bash
-    python main.py
-    ```
-
-Die Spiel-Fenster öffnet sich -- doch kehre zurück zur Konsole!\
+Die Spiel-Fenster öffnet sich -- doch *kehre zurück zur Konsole!*\
 Dort wirst du nach den **MIDI-Geräten** gefragt:
 
--   **Input:** DATO Input (meistens Option **#1**)\
+-   **Input:** DATO DUO Input (meistens Option **#1**)\
 -   **Output:** Microsoft GS Wavetable Synth (meistens Option **#2**)
 
 ------------------------------------------------------------------------
 
 # 🎮 **Wie wird gespielt?**
 
-Im Verzeichnis `imgs/` findest du die Grafiken\
-`datoduo_crush.png` und `datoduo_melodie.png`, die dir auf deiner Reise
-begegnen.
+Dieses Bild ![DATO DUO](sandbox/img/dato_duo.png) zeigt die Steuerungen, die du zum Spielen benötigst.  
+Oben links befindet sich der **Crush-Button**…  
+Unten findest du die **Melodie- und Sequenz-Regler**.
 
 ------------------------------------------------------------------------
 
@@ -142,8 +135,7 @@ Nun kommt die wahre Prüfung:
 
 🎯 **Passe die Melodie an den Rhythmus an!**
 
-Drehe den Geschwindigkeitsregler (**Tortuga -- Conejo**, Schildkröte --
-Hase),\
+Drehe den Geschwindigkeitsregler (**Schildkröte -- Hase**)\
 bis Rhythmus und Melodie **perfekt verschmelzen**...
 
 ✨ *Nur dann brichst du den Bann der CloudIA!*
@@ -152,5 +144,4 @@ bis Rhythmus und Melodie **perfekt verschmelzen**...
 
 # 🌈 \*\*Viel Mut, Musiker\*in!\*\*
 
-Möge dein Rhythmus klar bleiben\
-und deine Melodie die Wolken erleuchten.
+Möge dein Rhythmus klar bleiben und deine Melodie die Wolken erleuchten.
