@@ -1,0 +1,22 @@
+# Entorno virtual
+.venv/
+venv/
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de compilación
+build/
+dist/
+*.egg-info/
+
+# Configuración de IDEs
+.vscode/
+.idea/
+
+# Datos temporales
+*.log
+*.tmp
